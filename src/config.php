@@ -26,7 +26,7 @@ $config['imap']['password'] = "makoshark19";
 // https://stackoverflow.com/a/25238515/79461
 
 // email domains, usually different from imap hostname:
-$config['domains'] = array('mydomain.com', 'junkmail.herokuapp.com','https://tempmailer.herokuapp.com/','tempsy.herokuapp.com');
+$config['domains'] = array('mydomain.com', 'junkmail.herokuapp.com','https://tempmailer.herokuapp.com/','tempsy.herokuapp.com','herokuapp.com','https://tempsy.herokuapp.com/');
 
 // When to delete old messages?
 $config['delete_messages_older_than'] = '30 days ago';
